@@ -1,0 +1,134 @@
+Content\Textures\DungeonItems\Chests\ChestClosed.xnb
+Content\Textures\DungeonItems\Chests\ChestOpened.xnb
+Content\Textures\Characters\PC\Hero.xnb
+Content\Textures\Characters\PC\HeroAttack.xnb
+Content\Textures\Characters\PC\HeroWalking.xnb
+Content\Textures\Tiles\TileSheet.xnb
+Content\Textures\Interface\HeroFace.xnb
+Content\Textures\Interface\Sidebar.xnb
+Content\Textures\LightMasks\basicLightMask.xnb
+Content\Textures\Tiles\Black.xnb
+Content\Textures\Interface\LoadScreen.xnb
+Content\Textures\Items\Lights\vision.xnb
+Content\Textures\LightMasks\3bright.xnb
+Content\Textures\Interface\Title\LoadGameOption.xnb
+Content\Textures\Interface\Title\LoadGameSelected.xnb
+Content\Textures\Interface\Title\NewGameOption.xnb
+Content\Textures\Interface\Title\NewGameSelected.xnb
+Content\Textures\Interface\Title\TitleScreen.xnb
+Content\Textures\Items\Weapons\Dagger.xnb
+Content\Textures\Items\Weapons\Sword.xnb
+Content\Textures\Items\Inventory Images\TorchImage.xnb
+Content\Textures\Items\Lights\TorchSprite.xnb
+Content\Textures\Items\Inventory Images\DaggerImage.xnb
+Content\Textures\Interface\DarkRedX.xnb
+Content\Textures\Interface\RedX.xnb
+Content\Textures\Interface\ChestItemBar.xnb
+Content\Textures\DungeonItems\Chests\Chest1Closed.xnb
+Content\Textures\DungeonItems\Chests\Chest1Opened.xnb
+Content\Textures\DungeonItems\Chests\Chest2Closed.xnb
+Content\Textures\DungeonItems\Chests\Chest2Opened.xnb
+Content\Textures\DungeonItems\Chests\Chest3Closed.xnb
+Content\Textures\DungeonItems\Chests\Chest3Opened.xnb
+Content\Textures\Items\Potions\AttackPotion.xnb
+Content\Textures\Items\Potions\DefencePotion.xnb
+Content\Textures\Items\Potions\HealthPotion.xnb
+Content\Textures\Interface\Paused.xnb
+Content\Textures\Items\Armour\IronChestplate.xnb
+Content\Textures\Characters\Enemies\Goblins\GoblinAttacking.xnb
+Content\Textures\Characters\Enemies\Goblins\GoblinIdle.xnb
+Content\Textures\Characters\Enemies\Goblins\GoblinWalking.xnb
+Content\Textures\Interface\BattleMenu\AttackMenu1.xnb
+Content\Textures\Interface\BattleMenu\AttackMenu2.xnb
+Content\Textures\Interface\BattleMenu\BattleTransition.xnb
+Content\Textures\Interface\BattleMenu\AttackMenuSelected.xnb
+Content\Textures\Interface\BattleMenu\BattleWon.xnb
+Content\Textures\Interface\GameOver.xnb
+Content\Textures\Items\Armour\LeatherChestPlate.xnb
+Content\Textures\Items\Inventory Images\SwordImage.xnb
+Content\Textures\DungeonItems\Portal.xnb
+Content\Textures\Characters\PC\HeroCast.xnb
+Content\Textures\Magic\Energy Magic.xnb
+Content\Textures\Magic\Healing Magic.xnb
+Content\Textures\Magic\Cold Magic.xnb
+Content\Textures\Magic\Divine Magic.xnb
+Content\Textures\Magic\Fire Magic.xnb
+Content\Textures\Magic\Lightning Magic.xnb
+Content\Textures\Magic\Necrotic Magic.xnb
+Content\Textures\Magic\Water Magic.xnb
+Content\Textures\Interface\CharacterCreation\CharacterCreationScreen.xnb
+Content\Textures\Interface\CharacterCreation\ClericOption.xnb
+Content\Textures\Interface\CharacterCreation\ClericSelected.xnb
+Content\Textures\Interface\CharacterCreation\ThiefOption.xnb
+Content\Textures\Interface\CharacterCreation\ThiefSelected.xnb
+Content\Textures\Interface\CharacterCreation\WarriorOption.xnb
+Content\Textures\Interface\CharacterCreation\WarriorSelected.xnb
+Content\Textures\Interface\CharacterCreation\WizardOption.xnb
+Content\Textures\Interface\CharacterCreation\WizardSelected.xnb
+Content\Textures\Items\Potions\ManaPotion.xnb
+Content\Textures\Characters\Enemies\Orc\OrcAttack.xnb
+Content\Textures\Characters\Enemies\Orc\OrcIdle.xnb
+Content\Textures\Characters\Enemies\Orc\OrcWalking.xnb
+Content\Textures\Items\Inventory Images\OrcsbaneImage.xnb
+Content\Textures\Items\Weapons\Orcsbane.xnb
+Content\Textures\Magic\Effects\Buff Effect.xnb
+Content\Textures\Interface\LevelMenu\DexterityOption.xnb
+Content\Textures\Interface\LevelMenu\DexteritySelected.xnb
+Content\Textures\Interface\LevelMenu\IntelligenceOption.xnb
+Content\Textures\Interface\LevelMenu\IntelligenceSelected.xnb
+Content\Textures\Interface\LevelMenu\LevelMenu.xnb
+Content\Textures\Interface\LevelMenu\StaminaOption.xnb
+Content\Textures\Interface\LevelMenu\StaminaSelected.xnb
+Content\Textures\Interface\LevelMenu\StrengthOption.xnb
+Content\Textures\Interface\LevelMenu\StrengthSelected.xnb
+Content\Textures\Magic\Effects\EnergyBolt.xnb
+Content\Textures\Magic\Effects\FrostBurst.xnb
+Content\Textures\Magic\Effects\DivineRays.xnb
+Content\Textures\Items\Weapons\Mace.xnb
+Content\Textures\Items\Weapons\Staff.xnb
+Content\Textures\Items\Inventory Images\MaceImage.xnb
+Content\Textures\Items\Inventory Images\StaffImage.xnb
+Content\Textures\DungeonItems\RestArea.xnb
+Content\Textures\Characters\PC\HeroDying.xnb
+Content\Textures\Characters\Enemies\Goblins\GoblinDying.xnb
+Content\Textures\Characters\Enemies\Orc\OrcDying.xnb
+Content\Textures\Interface\ShopItemBar.xnb
+Content\Textures\DungeonItems\LivingQuarters\TableLeft.xnb
+Content\Textures\DungeonItems\LivingQuarters\TableRight.xnb
+Content\Textures\DungeonItems\LivingQuarters\BedDown.xnb
+Content\Textures\DungeonItems\LivingQuarters\BedLeft.xnb
+Content\Textures\DungeonItems\LivingQuarters\BedRight.xnb
+Content\Textures\DungeonItems\LivingQuarters\BedUp.xnb
+Content\Textures\Characters\NPC\GorcAttack.xnb
+Content\Textures\Characters\NPC\GorcWalking.xnb
+Content\Textures\Characters\NPC\GorcDying.xnb
+Content\Textures\Characters\NPC\GorcIdle.xnb
+Content\BattleBob.xnb
+Content\BattleGoblin.xnb
+Content\UIBox.xnb
+Content\DungeonWallBackground.xnb
+Content\DungeonWall.xnb
+Content\UIMenu.xnb
+Content\UIMenu2.xnb
+Content\Arrow.xnb
+Content\BackArrow.xnb
+Content\CircleButton.xnb
+Content\SandTimer.xnb
+Content\CircularButton.xnb
+Content\healthbar.xnb
+Content\BattleMenuButton.xnb
+Content\Attack.xnb
+Content\Item.xnb
+Content\Magic.xnb
+Content\Fireball.xnb
+Content\MessageBox.xnb
+Content\Effects\lighting.xnb
+Content\Fonts\BlackwoodCastle8.xnb
+Content\Fonts\NewsGothicBold8.xnb
+Content\Fonts\NewsGothicBold12.xnb
+Content\closeButton.xnb
+Content\Tiles.xnb
+Content\player.xnb
+Content\Maps\MAP000.MAP
+Content\Maps\MAP001.MAP
+Content\Maps\MAP002.MAP

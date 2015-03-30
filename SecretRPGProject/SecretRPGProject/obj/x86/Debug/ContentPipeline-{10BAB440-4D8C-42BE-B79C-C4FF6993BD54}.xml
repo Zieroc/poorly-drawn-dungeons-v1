@@ -1,0 +1,1226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\DungeonItems\Chests\ChestClosed.png</Source>
+      <Name>Textures\DungeonItems\Chests\ChestClosed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\ChestClosed.xnb</Output>
+      <Time>2012-06-02T21:33:27.7364842+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\Chests\ChestOpened.png</Source>
+      <Name>Textures\DungeonItems\Chests\ChestOpened</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\ChestOpened.xnb</Output>
+      <Time>2012-06-02T21:33:28.2875158+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\PC\Hero.png</Source>
+      <Name>Textures\Characters\PC\Hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\Hero.xnb</Output>
+      <Time>2012-05-31T22:59:39.2514432+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\PC\HeroAttack.png</Source>
+      <Name>Textures\Characters\PC\HeroAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\HeroAttack.xnb</Output>
+      <Time>2012-06-09T17:28:05.2283062+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\PC\HeroWalking.png</Source>
+      <Name>Textures\Characters\PC\HeroWalking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\HeroWalking.xnb</Output>
+      <Time>2012-05-31T16:54:38.2887798+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\TileSheet.png</Source>
+      <Name>Textures\Tiles\TileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Tiles\TileSheet.xnb</Output>
+      <Time>2012-05-26T15:45:15.176573+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\HeroFace.png</Source>
+      <Name>Textures\Interface\HeroFace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\HeroFace.xnb</Output>
+      <Time>2012-05-27T13:56:46.5384453+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\Sidebar.png</Source>
+      <Name>Textures\Interface\Sidebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Sidebar.xnb</Output>
+      <Time>2012-05-31T16:03:09.2600975+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LightMasks\basicLightMask.png</Source>
+      <Name>Textures\LightMasks\basicLightMask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\LightMasks\basicLightMask.xnb</Output>
+      <Time>2012-05-30T16:44:01.7923278+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\Black.png</Source>
+      <Name>Textures\Tiles\Black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Tiles\Black.xnb</Output>
+      <Time>2012-05-29T16:54:49.7109014+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LoadScreen.png</Source>
+      <Name>Textures\Interface\LoadScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LoadScreen.xnb</Output>
+      <Time>2012-06-07T15:22:03.0437099+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Lights\vision.png</Source>
+      <Name>Textures\Items\Lights\vision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Lights\vision.xnb</Output>
+      <Time>2012-05-30T19:09:46.4854957+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LightMasks\3bright.png</Source>
+      <Name>Textures\LightMasks\3bright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\LightMasks\3bright.xnb</Output>
+      <Time>2012-05-30T19:51:44.4375143+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\Title\LoadGameOption.png</Source>
+      <Name>Textures\Interface\Title\LoadGameOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\LoadGameOption.xnb</Output>
+      <Time>2012-06-01T16:00:23.1491798+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\Title\LoadGameSelected.png</Source>
+      <Name>Textures\Interface\Title\LoadGameSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\LoadGameSelected.xnb</Output>
+      <Time>2012-06-01T15:58:32.2138346+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\Title\NewGameOption.png</Source>
+      <Name>Textures\Interface\Title\NewGameOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\NewGameOption.xnb</Output>
+      <Time>2012-06-01T16:00:21.8691066+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\Title\NewGameSelected.png</Source>
+      <Name>Textures\Interface\Title\NewGameSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\NewGameSelected.xnb</Output>
+      <Time>2012-06-01T15:58:32.7738667+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\Title\TitleScreen.png</Source>
+      <Name>Textures\Interface\Title\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\TitleScreen.xnb</Output>
+      <Time>2012-06-01T15:37:04.2711685+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Weapons\Dagger.png</Source>
+      <Name>Textures\Items\Weapons\Dagger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Dagger.xnb</Output>
+      <Time>2012-06-01T12:22:23.7090786+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Weapons\Sword.png</Source>
+      <Name>Textures\Items\Weapons\Sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Sword.xnb</Output>
+      <Time>2012-07-03T21:31:18.4500035+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Inventory Images\TorchImage.png</Source>
+      <Name>Textures\Items\Inventory Images\TorchImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\TorchImage.xnb</Output>
+      <Time>2012-06-01T11:50:52.225892+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Lights\TorchSprite.png</Source>
+      <Name>Textures\Items\Lights\TorchSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Lights\TorchSprite.xnb</Output>
+      <Time>2012-06-02T22:08:44.8225746+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Inventory Images\DaggerImage.png</Source>
+      <Name>Textures\Items\Inventory Images\DaggerImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\DaggerImage.xnb</Output>
+      <Time>2012-06-01T12:00:13.5149959+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\DarkRedX.png</Source>
+      <Name>Textures\Interface\DarkRedX</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\DarkRedX.xnb</Output>
+      <Time>2012-06-01T20:15:01.4410481+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\RedX.png</Source>
+      <Name>Textures\Interface\RedX</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\RedX.xnb</Output>
+      <Time>2012-06-01T20:15:01.4300475+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\ChestItemBar.png</Source>
+      <Name>Textures\Interface\ChestItemBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\ChestItemBar.xnb</Output>
+      <Time>2012-06-01T22:02:43.470655+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\Chests\Chest1Closed.png</Source>
+      <Name>Textures\DungeonItems\Chests\Chest1Closed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest1Closed.xnb</Output>
+      <Time>2012-06-02T21:33:28.7245408+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\Chests\Chest1Opened.png</Source>
+      <Name>Textures\DungeonItems\Chests\Chest1Opened</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest1Opened.xnb</Output>
+      <Time>2012-06-02T21:33:29.1055625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\Chests\Chest2Closed.png</Source>
+      <Name>Textures\DungeonItems\Chests\Chest2Closed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest2Closed.xnb</Output>
+      <Time>2012-06-02T21:33:29.4905846+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\Chests\Chest2Opened.png</Source>
+      <Name>Textures\DungeonItems\Chests\Chest2Opened</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest2Opened.xnb</Output>
+      <Time>2012-06-02T21:33:29.8516052+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\Chests\Chest3Closed.png</Source>
+      <Name>Textures\DungeonItems\Chests\Chest3Closed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest3Closed.xnb</Output>
+      <Time>2012-06-02T21:33:30.2186262+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\Chests\Chest3Opened.png</Source>
+      <Name>Textures\DungeonItems\Chests\Chest3Opened</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest3Opened.xnb</Output>
+      <Time>2012-06-02T21:33:30.8076599+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Potions\AttackPotion.png</Source>
+      <Name>Textures\Items\Potions\AttackPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Potions\AttackPotion.xnb</Output>
+      <Time>2012-06-02T16:42:36.3923245+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Potions\DefencePotion.png</Source>
+      <Name>Textures\Items\Potions\DefencePotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Potions\DefencePotion.xnb</Output>
+      <Time>2012-06-02T16:42:36.4643286+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Potions\HealthPotion.png</Source>
+      <Name>Textures\Items\Potions\HealthPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Potions\HealthPotion.xnb</Output>
+      <Time>2012-06-02T16:42:36.3833239+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\Paused.png</Source>
+      <Name>Textures\Interface\Paused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Paused.xnb</Output>
+      <Time>2012-06-02T22:50:12.6218686+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Armour\IronChestplate.png</Source>
+      <Name>Textures\Items\Armour\IronChestplate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Armour\IronChestplate.xnb</Output>
+      <Time>2012-06-03T19:27:01.781226+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemies\Goblins\GoblinAttacking.png</Source>
+      <Name>Textures\Characters\Enemies\Goblins\GoblinAttacking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Goblins\GoblinAttacking.xnb</Output>
+      <Time>2012-06-09T17:37:58.9362644+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemies\Goblins\GoblinIdle.png</Source>
+      <Name>Textures\Characters\Enemies\Goblins\GoblinIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Goblins\GoblinIdle.xnb</Output>
+      <Time>2012-06-09T17:36:59.2208489+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemies\Goblins\GoblinWalking.png</Source>
+      <Name>Textures\Characters\Enemies\Goblins\GoblinWalking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Goblins\GoblinWalking.xnb</Output>
+      <Time>2012-06-09T17:37:19.4660068+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\BattleMenu\AttackMenu1.png</Source>
+      <Name>Textures\Interface\BattleMenu\AttackMenu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\AttackMenu1.xnb</Output>
+      <Time>2012-06-06T17:39:59.1154135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\BattleMenu\AttackMenu2.png</Source>
+      <Name>Textures\Interface\BattleMenu\AttackMenu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\AttackMenu2.xnb</Output>
+      <Time>2012-06-06T17:39:59.1284143+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\BattleMenu\BattleTransition.png</Source>
+      <Name>Textures\Interface\BattleMenu\BattleTransition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\BattleTransition.xnb</Output>
+      <Time>2012-06-07T15:21:49.0609101+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\BattleMenu\AttackMenuSelected.png</Source>
+      <Name>Textures\Interface\BattleMenu\AttackMenuSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\AttackMenuSelected.xnb</Output>
+      <Time>2012-06-08T00:16:34.845112+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\BattleMenu\BattleWon.png</Source>
+      <Name>Textures\Interface\BattleMenu\BattleWon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\BattleWon.xnb</Output>
+      <Time>2012-06-21T17:10:12.5501348+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\GameOver.png</Source>
+      <Name>Textures\Interface\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\GameOver.xnb</Output>
+      <Time>2012-06-21T17:10:29.2250886+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Armour\LeatherChestPlate.png</Source>
+      <Name>Textures\Items\Armour\LeatherChestPlate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Armour\LeatherChestPlate.xnb</Output>
+      <Time>2012-06-21T18:38:01.3044903+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Inventory Images\SwordImage.png</Source>
+      <Name>Textures\Items\Inventory Images\SwordImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\SwordImage.xnb</Output>
+      <Time>2012-06-21T18:39:54.6699745+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\Portal.png</Source>
+      <Name>Textures\DungeonItems\Portal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Portal.xnb</Output>
+      <Time>2012-07-01T14:21:58.4704414+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\PC\HeroCast.png</Source>
+      <Name>Textures\Characters\PC\HeroCast</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\HeroCast.xnb</Output>
+      <Time>2012-07-02T22:20:27.2073232+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Energy Magic.png</Source>
+      <Name>Textures\Magic\Energy Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Energy Magic.xnb</Output>
+      <Time>2012-07-03T00:08:50.4522876+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Healing Magic.png</Source>
+      <Name>Textures\Magic\Healing Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Healing Magic.xnb</Output>
+      <Time>2012-07-03T00:08:50.4732888+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Cold Magic.png</Source>
+      <Name>Textures\Magic\Cold Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Cold Magic.xnb</Output>
+      <Time>2012-07-03T01:19:06.7624467+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Divine Magic.png</Source>
+      <Name>Textures\Magic\Divine Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Divine Magic.xnb</Output>
+      <Time>2012-07-03T01:19:06.7724473+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Fire Magic.png</Source>
+      <Name>Textures\Magic\Fire Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Fire Magic.xnb</Output>
+      <Time>2012-07-03T01:19:06.784448+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Lightning Magic.png</Source>
+      <Name>Textures\Magic\Lightning Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Lightning Magic.xnb</Output>
+      <Time>2012-07-03T01:19:06.750446+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Necrotic Magic.png</Source>
+      <Name>Textures\Magic\Necrotic Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Necrotic Magic.xnb</Output>
+      <Time>2012-07-03T01:19:06.7944486+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Water Magic.png</Source>
+      <Name>Textures\Magic\Water Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Water Magic.xnb</Output>
+      <Time>2012-07-03T01:19:06.7384453+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\CharacterCreationScreen.png</Source>
+      <Name>Textures\Interface\CharacterCreation\CharacterCreationScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\CharacterCreationScreen.xnb</Output>
+      <Time>2012-07-03T14:45:55.3059443+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\ClericOption.png</Source>
+      <Name>Textures\Interface\CharacterCreation\ClericOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\ClericOption.xnb</Output>
+      <Time>2012-07-03T14:46:11.1618512+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\ClericSelected.png</Source>
+      <Name>Textures\Interface\CharacterCreation\ClericSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\ClericSelected.xnb</Output>
+      <Time>2012-07-03T14:46:11.1688516+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\ThiefOption.png</Source>
+      <Name>Textures\Interface\CharacterCreation\ThiefOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\ThiefOption.xnb</Output>
+      <Time>2012-07-03T14:46:11.176852+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\ThiefSelected.png</Source>
+      <Name>Textures\Interface\CharacterCreation\ThiefSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\ThiefSelected.xnb</Output>
+      <Time>2012-07-03T14:46:11.1858526+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\WarriorOption.png</Source>
+      <Name>Textures\Interface\CharacterCreation\WarriorOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\WarriorOption.xnb</Output>
+      <Time>2012-07-03T14:46:11.193853+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\WarriorSelected.png</Source>
+      <Name>Textures\Interface\CharacterCreation\WarriorSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\WarriorSelected.xnb</Output>
+      <Time>2012-07-03T14:46:11.1328495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\WizardOption.png</Source>
+      <Name>Textures\Interface\CharacterCreation\WizardOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\WizardOption.xnb</Output>
+      <Time>2012-07-03T14:46:11.14085+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\CharacterCreation\WizardSelected.png</Source>
+      <Name>Textures\Interface\CharacterCreation\WizardSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\WizardSelected.xnb</Output>
+      <Time>2012-07-03T14:46:11.1528507+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Potions\ManaPotion.png</Source>
+      <Name>Textures\Items\Potions\ManaPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Potions\ManaPotion.xnb</Output>
+      <Time>2012-07-03T21:43:58.8623835+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemies\Orc\OrcAttack.png</Source>
+      <Name>Textures\Characters\Enemies\Orc\OrcAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Orc\OrcAttack.xnb</Output>
+      <Time>2012-07-04T15:01:55.5552124+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemies\Orc\OrcIdle.png</Source>
+      <Name>Textures\Characters\Enemies\Orc\OrcIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Orc\OrcIdle.xnb</Output>
+      <Time>2012-07-04T15:01:55.5662131+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemies\Orc\OrcWalking.png</Source>
+      <Name>Textures\Characters\Enemies\Orc\OrcWalking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Orc\OrcWalking.xnb</Output>
+      <Time>2012-07-04T15:01:55.5742135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Inventory Images\OrcsbaneImage.png</Source>
+      <Name>Textures\Items\Inventory Images\OrcsbaneImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\OrcsbaneImage.xnb</Output>
+      <Time>2012-07-04T19:54:42.4669823+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Weapons\Orcsbane.png</Source>
+      <Name>Textures\Items\Weapons\Orcsbane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Orcsbane.xnb</Output>
+      <Time>2012-07-04T19:58:07.105687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Effects\Buff Effect.png</Source>
+      <Name>Textures\Magic\Effects\Buff Effect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Effects\Buff Effect.xnb</Output>
+      <Time>2012-07-04T22:27:44.612171+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\DexterityOption.png</Source>
+      <Name>Textures\Interface\LevelMenu\DexterityOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\DexterityOption.xnb</Output>
+      <Time>2012-07-05T16:24:56.8260218+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\DexteritySelected.png</Source>
+      <Name>Textures\Interface\LevelMenu\DexteritySelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\DexteritySelected.xnb</Output>
+      <Time>2012-07-05T16:24:56.8340223+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\IntelligenceOption.png</Source>
+      <Name>Textures\Interface\LevelMenu\IntelligenceOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\IntelligenceOption.xnb</Output>
+      <Time>2012-07-05T16:24:56.8550235+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\IntelligenceSelected.png</Source>
+      <Name>Textures\Interface\LevelMenu\IntelligenceSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\IntelligenceSelected.xnb</Output>
+      <Time>2012-07-05T16:24:56.864024+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\LevelMenu.png</Source>
+      <Name>Textures\Interface\LevelMenu\LevelMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\LevelMenu.xnb</Output>
+      <Time>2012-07-05T16:24:56.759018+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\StaminaOption.png</Source>
+      <Name>Textures\Interface\LevelMenu\StaminaOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\StaminaOption.xnb</Output>
+      <Time>2012-07-05T16:24:56.7680185+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\StaminaSelected.png</Source>
+      <Name>Textures\Interface\LevelMenu\StaminaSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\StaminaSelected.xnb</Output>
+      <Time>2012-07-05T16:24:56.8010204+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\StrengthOption.png</Source>
+      <Name>Textures\Interface\LevelMenu\StrengthOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\StrengthOption.xnb</Output>
+      <Time>2012-07-05T16:24:56.8090208+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\LevelMenu\StrengthSelected.png</Source>
+      <Name>Textures\Interface\LevelMenu\StrengthSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\StrengthSelected.xnb</Output>
+      <Time>2012-07-05T16:24:56.8170213+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Effects\EnergyBolt.png</Source>
+      <Name>Textures\Magic\Effects\EnergyBolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Effects\EnergyBolt.xnb</Output>
+      <Time>2012-07-05T21:49:23.7334652+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Effects\FrostBurst.png</Source>
+      <Name>Textures\Magic\Effects\FrostBurst</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Effects\FrostBurst.xnb</Output>
+      <Time>2012-07-05T22:04:06.5379587+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Magic\Effects\DivineRays.png</Source>
+      <Name>Textures\Magic\Effects\DivineRays</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Effects\DivineRays.xnb</Output>
+      <Time>2012-07-05T22:10:52.1321574+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Weapons\Mace.png</Source>
+      <Name>Textures\Items\Weapons\Mace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Mace.xnb</Output>
+      <Time>2012-07-05T22:29:45.2519681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Weapons\Staff.png</Source>
+      <Name>Textures\Items\Weapons\Staff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Staff.xnb</Output>
+      <Time>2012-07-05T22:29:45.2109658+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Inventory Images\MaceImage.png</Source>
+      <Name>Textures\Items\Inventory Images\MaceImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\MaceImage.xnb</Output>
+      <Time>2012-07-05T23:17:04.3993581+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items\Inventory Images\StaffImage.png</Source>
+      <Name>Textures\Items\Inventory Images\StaffImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\StaffImage.xnb</Output>
+      <Time>2012-07-05T23:17:04.4103587+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\RestArea.png</Source>
+      <Name>Textures\DungeonItems\RestArea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\RestArea.xnb</Output>
+      <Time>2012-07-11T23:58:54.4911691+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\PC\HeroDying.png</Source>
+      <Name>Textures\Characters\PC\HeroDying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\HeroDying.xnb</Output>
+      <Time>2012-07-12T00:11:25.7221371+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemies\Goblins\GoblinDying.png</Source>
+      <Name>Textures\Characters\Enemies\Goblins\GoblinDying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Goblins\GoblinDying.xnb</Output>
+      <Time>2012-07-12T00:14:42.5593955+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemies\Orc\OrcDying.png</Source>
+      <Name>Textures\Characters\Enemies\Orc\OrcDying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Orc\OrcDying.xnb</Output>
+      <Time>2012-07-12T00:16:29.1684932+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Interface\ShopItemBar.png</Source>
+      <Name>Textures\Interface\ShopItemBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\ShopItemBar.xnb</Output>
+      <Time>2012-07-12T18:16:17.6511222+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\LivingQuarters\TableLeft.png</Source>
+      <Name>Textures\DungeonItems\LivingQuarters\TableLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\TableLeft.xnb</Output>
+      <Time>2012-07-21T17:55:07.47524+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\LivingQuarters\TableRight.png</Source>
+      <Name>Textures\DungeonItems\LivingQuarters\TableRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\TableRight.xnb</Output>
+      <Time>2012-07-21T17:55:07.4842405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\LivingQuarters\BedDown.png</Source>
+      <Name>Textures\DungeonItems\LivingQuarters\BedDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\BedDown.xnb</Output>
+      <Time>2012-07-21T17:55:32.1746527+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\LivingQuarters\BedLeft.png</Source>
+      <Name>Textures\DungeonItems\LivingQuarters\BedLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\BedLeft.xnb</Output>
+      <Time>2012-07-21T17:55:32.1846533+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\LivingQuarters\BedRight.png</Source>
+      <Name>Textures\DungeonItems\LivingQuarters\BedRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\BedRight.xnb</Output>
+      <Time>2012-07-21T17:55:32.1946538+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DungeonItems\LivingQuarters\BedUp.png</Source>
+      <Name>Textures\DungeonItems\LivingQuarters\BedUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\BedUp.xnb</Output>
+      <Time>2012-07-21T17:55:32.2046544+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\NPC\GorcAttack.png</Source>
+      <Name>Textures\Characters\NPC\GorcAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\NPC\GorcAttack.xnb</Output>
+      <Time>2012-10-28T17:17:50.2186677+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\NPC\GorcWalking.png</Source>
+      <Name>Textures\Characters\NPC\GorcWalking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\NPC\GorcWalking.xnb</Output>
+      <Time>2012-10-28T17:21:30.7562818+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\NPC\GorcDying.png</Source>
+      <Name>Textures\Characters\NPC\GorcDying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\NPC\GorcDying.xnb</Output>
+      <Time>2012-10-28T17:20:57.0433535+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\NPC\GorcIdle.png</Source>
+      <Name>Textures\Characters\NPC\GorcIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\NPC\GorcIdle.xnb</Output>
+      <Time>2012-10-28T17:21:17.7215362+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleBob.png</Source>
+      <Name>BattleBob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\BattleBob.xnb</Output>
+      <Time>2013-05-01T17:32:33.599572+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleGoblin.png</Source>
+      <Name>BattleGoblin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\BattleGoblin.xnb</Output>
+      <Time>2013-05-01T17:51:25.79833+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UIBox.png</Source>
+      <Name>UIBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\UIBox.xnb</Output>
+      <Time>2013-05-02T19:31:27.6253296+01:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonWallBackground.png</Source>
+      <Name>DungeonWallBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\DungeonWallBackground.xnb</Output>
+      <Time>2013-05-02T18:59:12.7116588+01:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonWall.png</Source>
+      <Name>DungeonWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\DungeonWall.xnb</Output>
+      <Time>2013-05-02T19:28:20.4216221+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UIMenu.png</Source>
+      <Name>UIMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\UIMenu.xnb</Output>
+      <Time>2013-05-02T19:42:17.1884824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UIMenu2.png</Source>
+      <Name>UIMenu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\UIMenu2.xnb</Output>
+      <Time>2013-05-02T19:42:17.2264846+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Arrow.png</Source>
+      <Name>Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Arrow.xnb</Output>
+      <Time>2013-05-22T17:31:44.9797823+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BackArrow.png</Source>
+      <Name>BackArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\BackArrow.xnb</Output>
+      <Time>2013-05-22T18:18:26.1229985+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CircleButton.png</Source>
+      <Name>CircleButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\CircleButton.xnb</Output>
+      <Time>2013-05-22T18:47:32.2998741+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SandTimer.png</Source>
+      <Name>SandTimer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\SandTimer.xnb</Output>
+      <Time>2013-05-22T19:01:01.7621727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CircularButton.png</Source>
+      <Name>CircularButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\CircularButton.xnb</Output>
+      <Time>2013-05-22T18:51:11.7644268+01:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2013-05-22T19:31:23.3163597+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleMenuButton.png</Source>
+      <Name>BattleMenuButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\BattleMenuButton.xnb</Output>
+      <Time>2013-05-23T19:04:07.1305878+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Attack.png</Source>
+      <Name>Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Attack.xnb</Output>
+      <Time>2013-05-23T19:04:07.1185872+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Item.png</Source>
+      <Name>Item</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Item.xnb</Output>
+      <Time>2013-05-23T19:04:07.1405884+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Magic.png</Source>
+      <Name>Magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Magic.xnb</Output>
+      <Time>2013-05-23T19:04:07.1065865+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball.png</Source>
+      <Name>Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Fireball.xnb</Output>
+      <Time>2013-05-23T19:43:54.0931143+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageBox.png</Source>
+      <Name>MessageBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\MessageBox.xnb</Output>
+      <Time>2013-05-24T17:48:52.0442825+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\lighting.fx</Source>
+      <Name>Effects\lighting</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Effects\lighting.xnb</Output>
+      <Time>2012-05-29T16:37:19.0278058+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BlackwoodCastle8.spritefont</Source>
+      <Name>Fonts\BlackwoodCastle8</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Fonts\BlackwoodCastle8.xnb</Output>
+      <Time>2012-06-01T15:08:33.4733165+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\NewsGothicBold8.spritefont</Source>
+      <Name>Fonts\NewsGothicBold8</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Fonts\NewsGothicBold8.xnb</Output>
+      <Time>2012-07-02T20:02:30.6009284+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\NewsGothicBold12.spritefont</Source>
+      <Name>Fonts\NewsGothicBold12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Fonts\NewsGothicBold12.xnb</Output>
+      <Time>2013-05-22T19:13:38.261442+01:00</Time>
+    </Item>
+    <Item>
+      <Source>closeButton.png</Source>
+      <Name>closeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\closeButton.xnb</Output>
+      <Time>2013-05-24T16:58:50.5866089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles.png</Source>
+      <Name>Tiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Tiles.xnb</Output>
+      <Time>2013-06-01T03:56:57.4113249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2013-06-01T03:57:05.2537734+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{10BAB440-4D8C-42BE-B79C-C4FF6993BD54}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-01T20:45:03.4378393+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

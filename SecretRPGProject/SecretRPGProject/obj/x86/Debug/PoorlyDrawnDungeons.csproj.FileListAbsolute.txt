@@ -1,0 +1,142 @@
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\Hero.xnb
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\HeroAttack.xnb
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\HeroWalking.xnb
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Tiles\TileSheet.xnb
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Maps\MAP000.MAP
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Poorly Drawn Dungeons.exe
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Poorly Drawn Dungeons.pdb
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Tile Engine.dll
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Tile Engine.pdb
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\obj\x86\Debug\Poorly Drawn Dungeons.exe
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\obj\x86\Debug\Poorly Drawn Dungeons.pdb
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\HeroFace.xnb
+c:\users\christy's laptop\documents\visual studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Sidebar.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\LightMasks\basicLightMask.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Tiles\Black.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Effects\lighting.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LoadScreen.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Lights\vision.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\LightMasks\3bright.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Dagger.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Sword.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\TorchImage.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Lights\TorchSprite.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\DaggerImage.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\LoadGameOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\LoadGameSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\NewGameOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\NewGameSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Title\TitleScreen.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\DarkRedX.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\RedX.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Fonts\BlackwoodCastle8.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\ChestClosed.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\ChestOpened.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\ChestItemBar.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest1Closed.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest1Opened.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest2Closed.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest2Opened.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest3Closed.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Chests\Chest3Opened.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Potions\AttackPotion.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Potions\DefencePotion.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Potions\HealthPotion.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Fonts\NewsGothicBold8.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\Paused.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Armour\IronChestplate.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Goblins\GoblinAttacking.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Goblins\GoblinIdle.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Goblins\GoblinWalking.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\AttackMenu1.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\AttackMenu2.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\BattleTransition.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\AttackMenuSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\BattleMenu\BattleWon.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\GameOver.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Armour\LeatherChestPlate.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\SwordImage.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\Portal.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Maps\MAP001.MAP
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\HeroCast.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Energy Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Healing Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Cold Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Divine Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Fire Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Lightning Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Necrotic Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Water Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\CharacterCreationScreen.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\ClericOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\ClericSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\ThiefOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\ThiefSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\WarriorOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\WarriorSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\WizardOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\CharacterCreation\WizardSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Potions\ManaPotion.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Orc\OrcAttack.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Orc\OrcIdle.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Orc\OrcWalking.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\OrcsbaneImage.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Orcsbane.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\DexterityOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\DexteritySelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\IntelligenceOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\IntelligenceSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\LevelMenu.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\StaminaOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\StaminaSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\StrengthOption.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\LevelMenu\StrengthSelected.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Effects\Buff Effect.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Effects\EnergyBolt.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Effects\FrostBurst.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Magic\Effects\DivineRays.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Mace.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Weapons\Staff.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\MaceImage.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Items\Inventory Images\StaffImage.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\RestArea.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\PC\HeroDying.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Goblins\GoblinDying.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\Enemies\Orc\OrcDying.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Interface\ShopItemBar.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\TableLeft.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\TableRight.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\BedDown.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\BedLeft.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\BedRight.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\DungeonItems\LivingQuarters\BedUp.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Fonts\NewsGothicBold12.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\NPC\GorcAttack.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\NPC\GorcWalking.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\NPC\GorcDying.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Textures\Characters\NPC\GorcIdle.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Maps\MAP002.MAP
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\obj\x86\Debug\PoorlyDrawnDungeons.csprojResolveAssemblyReference.cache
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\BattleBob.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\BattleGoblin.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\UIBox.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\DungeonWallBackground.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\DungeonWall.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\UIMenu.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\UIMenu2.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Arrow.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\BackArrow.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\CircleButton.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\SandTimer.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\CircularButton.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\BattleMenuButton.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Attack.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Item.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Magic.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\MessageBox.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\closeButton.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\Tiles.xnb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\SecretRPGProject\SecretRPGProject\SecretRPGProject\bin\x86\Debug\Content\player.xnb

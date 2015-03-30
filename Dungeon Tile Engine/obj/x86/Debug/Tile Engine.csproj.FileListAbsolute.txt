@@ -1,0 +1,6 @@
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\Journey of Jake\Tile Engine\bin\x86\Debug\Tile Engine.dll
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\Journey of Jake\Tile Engine\bin\x86\Debug\Tile Engine.pdb
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\Journey of Jake\Tile Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\Journey of Jake\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\Journey of Jake\Tile Engine\obj\x86\Debug\Tile Engine.dll
+C:\Users\Christy's Laptop\Documents\Visual Studio 2010\Projects\Journey of Jake\Tile Engine\obj\x86\Debug\Tile Engine.pdb

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorlyDrawnDungeons", "SecretRPGProject\SecretRPGProject\PoorlyDrawnDungeons.csproj", "{A1F3081A-B691-495C-9A4B-28E756365E33}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PoorlyDrawnDungeonsContent", "SecretRPGProject\SecretRPGProjectContent\PoorlyDrawnDungeonsContent.contentproj", "{10BAB440-4D8C-42BE-B79C-C4FF6993BD54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon Tile Engine", "Dungeon Tile Engine\Dungeon Tile Engine.csproj", "{45BEFA2B-144A-4362-8073-F21281D5474D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F3081A-B691-495C-9A4B-28E756365E33}.Debug|x86.ActiveCfg = Debug|x86
+		{A1F3081A-B691-495C-9A4B-28E756365E33}.Debug|x86.Build.0 = Debug|x86
+		{A1F3081A-B691-495C-9A4B-28E756365E33}.Release|x86.ActiveCfg = Release|x86
+		{A1F3081A-B691-495C-9A4B-28E756365E33}.Release|x86.Build.0 = Release|x86
+		{10BAB440-4D8C-42BE-B79C-C4FF6993BD54}.Debug|x86.ActiveCfg = Debug|x86
+		{10BAB440-4D8C-42BE-B79C-C4FF6993BD54}.Release|x86.ActiveCfg = Release|x86
+		{45BEFA2B-144A-4362-8073-F21281D5474D}.Debug|x86.ActiveCfg = Debug|x86
+		{45BEFA2B-144A-4362-8073-F21281D5474D}.Debug|x86.Build.0 = Debug|x86
+		{45BEFA2B-144A-4362-8073-F21281D5474D}.Release|x86.ActiveCfg = Release|x86
+		{45BEFA2B-144A-4362-8073-F21281D5474D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
